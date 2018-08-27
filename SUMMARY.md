@@ -6,8 +6,14 @@
   * [Beyond the 12 Factor Applications](12factor.md)
   * [Personas](personas.md)
   * [Previous Versions \(6.x & 5.x\)](previous.md)
-* [Getting Started](setting-up-the-environment.md)
-* Components Architecture
+* [Getting Started](getting-started.md)
+  * [Overview](getting-started/getting-started.md)
+  * [Quickstart](getting-started/quickstart.md)
+  * [Docker Compose](getting-started/docker.md)
+  * [Kubernetes/Minikube](getting-started/minikube.md)
+  * [Testing](getting-started/testing.md)
+  * [Demo UI](demo-ui.md)
+* [Components Architecture](components-architecture.md)
   * [Overview](/components/Overview.md)
   * [Spring Cloud & Activiti Cloud](/components/spring-cloud.md)
   * Activiti Cloud Infrastructure
@@ -18,6 +24,7 @@
     * [Configuration Service](/components/activiti-cloud-infra/config.md)
     * [Distributed Logging](/components/activiti-cloud-infra/logging.md)
   * Activiti Cloud Platform
+    * [Cross Cutting Concerns](/components/activiti-cloud-platform/CrossCuttingConcerns.md)
     * [Process Model Service](/components/activiti-cloud-platform/ProcessModelService.md)
     * [Forms Runtime](/components/activiti-cloud-platform/FormRuntimeService.md)
   * Activiti Cloud Application
@@ -26,12 +33,19 @@
     * [Audit Service](/components/activiti-cloud-app/AuditService.md)
     * [Notification Service](/components/activiti-cloud-app/Notification.md)
     * [Cloud Connectors](/components/activiti-cloud-app/CloudConnectors.md)
+  * [BluePrints](/blueprints/Overview.md)
+    * [Trending Topic Campaigns](/blueprints/trending-topic-campaigns/TrendingTopicCampaigns.md)
 * [How to contribute](contribute.md)
 * [Repositories Structure](repositories.md)
-* Working with Activiti v7
+* Working with Activiti Cloud
   * [SSO and IDM](sso-and-idm.md)
     * [Integrating with an IDM](sso-and-idm/integrating-with-an-idm.md)
     * [Using Keycloak to Secure Endpoints](sso-and-idm/using-keycloak-to-secure-endpoints.md)
 * [Books & References](books/reference.md)
 * Releases
+  * [Early Access 201802](/releases/7-EA201802.md)
+  * [Early Access 201801](/releases/7-EA201801.md)
+  * [Early Access 201712](/releases/7-EA201712.md)
+  * [Early Access 201711](/releases/7-EA201711.md)
+  * [Early Access 201710](/releases/7-EA201710.md)
   * [Early Access 201709](/releases/7-EA201709.md)

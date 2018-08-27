@@ -1,4 +1,6 @@
-# Activiti & Activiti Cloud Developer Guide
+# Activiti 7 & Activiti Cloud Developer Guide
+
+[![Activiti](/assets/Acitiviti_Icon_FullColor_GitHub_400x400.png)](https://github.com/Activiti)
 
 This GitBook introduces the new concepts and components added in Version 7.
 
